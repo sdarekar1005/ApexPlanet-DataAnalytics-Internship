@@ -4,6 +4,7 @@ Total Columns: 21
 Missing Values: 0
 Dataset Quality: Excellent
 
+
 Business Insights 
 Average Sales: 229.86
 Average Profit: 28.66
@@ -18,14 +19,10 @@ Maximum Discount: 80%
 4. A small number of products contributed a large share of total sales.
 5. The dataset showed strong opportunities for category-level performance analysis.
 
+
 1. The West region generated the highest sales.
-
 2. Technology was the highest revenue-generating category.
-
 3. Profit distribution varied significantly across categories.
-
 4. A small number of products contributed a large share of total sales.
-
 5. Monthly sales trends revealed seasonal fluctuations in revenue.
-
-6. The dataset is suitable for further predictive and business intelligence analysis.
+6. Thedataset is suitable for further predictive and business intelligence analysis.
