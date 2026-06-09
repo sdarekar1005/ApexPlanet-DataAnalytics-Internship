@@ -1,0 +1,54 @@
+1
+00:00:00,000 --> 00:00:05,000
+Task 2 - Exploratory Data Analysis (EDA)
+Data Analytics Internship at ApexPlanet Software Pvt. Ltd.
+
+2
+00:00:05,000 --> 00:00:10,000
+Project Structure and Dataset Overview
+Superstore Dataset Analysis
+
+3
+00:00:10,000 --> 00:00:18,000
+Loading and Exploring the Dataset
+Using Python, Pandas, and VS Code
+
+4
+00:00:18,000 --> 00:00:25,000
+Performing Data Analysis
+Checking dataset structure and statistics
+
+5
+00:00:25,000 --> 00:00:32,000
+Generating Visual Insights
+Sales and Profit Analysis
+
+6
+00:00:32,000 --> 00:00:38,000
+Sales by Region Analysis
+Understanding regional business performance
+
+7
+00:00:38,000 --> 00:00:44,000
+Sales by Category Analysis
+Comparing category-wise revenue
+
+8
+00:00:44,000 --> 00:00:50,000
+Profit by Category Analysis
+Identifying profitable segments
+
+9
+00:00:50,000 --> 00:00:56,000
+Top Products and Monthly Sales Trends
+Extracting actionable business insights
+
+10
+00:00:56,000 --> 00:01:02,000
+Task Successfully Completed
+Charts, Insights, and GitHub Repository Generated
+
+11
+00:01:02,000 --> 00:01:07,000
+Thank You
+Continuous Learning Through Data Analytics
