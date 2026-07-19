@@ -1,0 +1,21 @@
+TASK 4 - DATA ANALYSIS & INSIGHTS
+
+Dataset:
+Sample Superstore Dataset
+
+Key Insights:
+1. Technology category generated the highest sales.
+2. Technology category also recorded the highest overall profit.
+3. The West region achieved the highest sales, followed by the East region.
+4. The South region recorded the lowest sales among all regions.
+5. Monthly sales showed noticeable fluctuations, with higher sales during the final months of the year.
+6. Canon imageCLASS 2200 Advanced Copier was the highest-selling product.
+7. Sales distribution indicates that Technology products contribute significantly to total revenue.
+8. The dataset contains:
+   - 9,994 records
+   - 21 columns
+   - No missing values
+
+
+Conclusion:
+The Superstore dataset shows that Technology products and the West region are the primary contributors to business revenue. Sales increase significantly toward the end of the year, indicating seasonal demand. These insights can help businesses improve inventory planning, marketing strategies, and sales forecasting.
