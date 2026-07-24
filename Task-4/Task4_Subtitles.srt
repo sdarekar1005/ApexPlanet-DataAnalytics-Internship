@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hello everyone!
+This is my Task 4 submission for the Data Analytics Internship at ApexPlanet Software Pvt. Ltd.
+
+2
+00:00:05,000 --> 00:00:10,000
+In this task, I performed exploratory data analysis on the Sample Superstore Dataset using Python.
+
+3
+00:00:10,000 --> 00:00:16,000
+I explored the dataset, checked data types, verified missing values,
+and generated statistical summaries.
+
+4
+00:00:16,000 --> 00:00:22,000
+I also created new date features such as Year, Month, Day,
+and Weekday for better time-based analysis.
+
+5
+00:00:22,000 --> 00:00:28,000
+Then, I created insightful visualizations including
+Sales by Category, Profit by Category, and Sales by Region.
+
+6
+00:00:28,000 --> 00:00:34,000
+I also analyzed Monthly Sales Trends
+and identified the Top 10 Products by Sales.
+
+7
+00:00:34,000 --> 00:00:40,000
+From this analysis, I found that the Technology category
+generated the highest sales and profit.
+
+8
+00:00:40,000 --> 00:00:46,000
+The West region recorded the highest sales,
+while sales increased significantly during the final months of the year.
+
+9
+00:00:46,000 --> 00:00:52,000
+This project enhanced my skills in Python,
+Pandas, NumPy, Matplotlib, Seaborn, and Data Visualization.
+
+10
+00:00:52,000 --> 00:00:57,000
+Thank you to ApexPlanet Software Pvt. Ltd.
+for this valuable learning opportunity.
